@@ -3,6 +3,8 @@ package Vectores;
 import java.util.Scanner;
 import java.util.Vector;
 
+@SuppressWarnings("resource")
+
 public class EjerUno {
   // Procedimiento y funciones aqui
   public static void llenado1(Vector<String> v, int n) {
