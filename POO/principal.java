@@ -1,7 +1,7 @@
 package POO;
 
 import java.util.Vector;
-// import java.util.Scanner;
+import java.util.Scanner;
 
 public class principal {
   public static void main(String[] args) {
