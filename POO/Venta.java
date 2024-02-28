@@ -1,4 +1,3 @@
-package POO;
 
 public class Venta {
   private String nombre;

@@ -1,5 +1,3 @@
-package Poo;
-
 public class Principal {
   public static void main(String[] args) {
     // Pizarra p1 = new Pizarra();

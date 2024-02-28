@@ -1,7 +1,3 @@
-package POO;
-
-import java.util.Vector;
-import java.util.Scanner;
 
 public class Producto {
   private int codigo, precio, stock;

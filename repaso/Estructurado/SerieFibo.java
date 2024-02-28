@@ -1,5 +1,3 @@
-package Estructurado;
-
 //generar la serie Fibonacci
 public class SerieFibo {
   public static void main(String[] args) {

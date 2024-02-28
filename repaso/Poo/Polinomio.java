@@ -1,5 +1,3 @@
-package Poo;
-
 public class Polinomio {
   // polinomio de 3 terminos
   // 4x^3 -5x^2 + 6

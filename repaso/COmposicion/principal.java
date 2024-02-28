@@ -1,9 +1,10 @@
-package COmposicion;
-
 import java.util.Scanner;
 
 public class principal {
   public static void main(String[] args) {
+    Director D = new Director();
+    D.leer();
+    D.mostrar();
   }
 
 }

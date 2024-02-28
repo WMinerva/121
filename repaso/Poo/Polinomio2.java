@@ -1,5 +1,3 @@
-package Poo;
-
 public class Polinomio2 {
   private int nterm;
   private int p[][] = new int[100][3];

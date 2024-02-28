@@ -1,9 +1,6 @@
-package POO;
-
 import java.util.Vector;
-import java.util.Scanner;
 
-public class principal {
+public class Principal {
   public static void main(String[] args) {
     Vector<Producto> A = new Vector<Producto>();
     Producto p1 = new Producto(1, 100, 10, "Producto 1");

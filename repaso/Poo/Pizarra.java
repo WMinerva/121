@@ -1,5 +1,3 @@
-package Poo;
-
 class Pizarra {
   private String tamaño, material, color;
   private int codigo;
